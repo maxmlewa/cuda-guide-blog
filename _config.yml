@@ -1,0 +1,8 @@
+title: "CUDA Programming Guide"
+description: "Learning CUDA from scratch with examples and benchmarks"
+baseurl: ""
+url: "https://maxmlewa.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+
